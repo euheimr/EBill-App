@@ -1,9 +1,0 @@
-invoicer - ebill
-
-____VAR_________|___DATA TYPE___|___DEFAULT VALUE____
-[custName] 		|	STRING		|	""
-[company name] 	|	STRING		|	
-[address] 		|	STRING		|	
-[city] string 	|	STRING		|	
-[state] 		|	ENUM 		|	
-[zip] int		|	INT			|	
